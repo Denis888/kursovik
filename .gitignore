@@ -1,0 +1,8 @@
+# windows thumbnail cache
+Thumbs.db
+
+#binaries
+Debug/
+ipch/
+*.sdf
+*.suo
